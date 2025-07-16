@@ -1,2 +1,2 @@
 #!/bin/bash
-gzip -9 *.json
+gzip -9 -f -k *.json

@@ -1,2 +1,2 @@
 #!/bin/bash
-gunzip -k *.json.gz
+gunzip -k -f *.json.gz
